@@ -6,13 +6,12 @@ Link to article: https://towardsdatascience.com/definitive-guide-to-create-an-sq
 ___
 ### Contents
 **Files**
-- `Example-Notebook.ipynb`:
-- `config.py`: 
+- `Example-Notebook.ipynb`: Main notebook with sample codes on using PyMySQL and general Python functions to connect to Amazon RDS database instance and perform CRUD operations.
+- `config.py`: Configuration file comprising key database connection parameters
 
 **Folders**
-- `/ssl`: 
-- `/assets`: 
-
+- `/ssl`: Folder containing the bundle file of SSL certificates (for encrypted SSL connection between local client and RDS database instance)
+- `/assets`: Folder containing the various screenshots in the step-by-step guide
 
 ___
 ### Motivation
